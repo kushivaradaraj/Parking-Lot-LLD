@@ -1,3 +1,4 @@
+package src;
 public class Ticket {
     private int id;
     private ParkingSpot parkingSpot;

@@ -1,3 +1,4 @@
+package src;
 public class CarSpot extends ParkingSpot {
 
     CarSpot(int id) {

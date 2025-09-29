@@ -1,3 +1,4 @@
+package src;
 public class LargeVehicleSpot extends ParkingSpot {
 
     LargeVehicleSpot(int id) {
